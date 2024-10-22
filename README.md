@@ -14,8 +14,6 @@ This project implements a convolutional autoencoder designed to learn efficient 
 - **convae.py**: A secondary script containing utility functions related to data processing and model training.
 - **data/**: Contains the MNIST dataset files (`train-images-idx3-ubyte.gz`, `t10k-images-idx3-ubyte.gz`, etc.), used for training and testing the model.
 
-## Installation
-
 ### Prerequisites
 
 - **Python 3.x**: Ensure Python 3.x is installed on your machine.
