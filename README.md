@@ -29,13 +29,7 @@ This project implements a convolutional autoencoder designed to learn efficient 
     cd ConvAutoEncoder
     ```
 
-2. **Install Python Dependencies**:
-    You can install the required dependencies using:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Download the Dataset**:
+2. **Download the Dataset**:
     The dataset is already included in the `data/` folder, so no need to download it separately.
 
 ## Running the Model
